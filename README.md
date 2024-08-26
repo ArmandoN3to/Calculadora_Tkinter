@@ -67,4 +67,3 @@ Sinta-se à vontade para contribuir com melhorias ou novas funcionalidades para 
 
 [Armando Neto](https://github.com/ArmandoN3to) - armandogoncalves2@hotmail.com
 
-```
